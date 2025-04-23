@@ -1,40 +1,77 @@
-![A professional Web Developer and programmer, WordPress customization and plugins developer.](https://pbs.twimg.com/profile_banners/1834270423946805248/1744633024/1080x360)
+![Header](https://pbs.twimg.com/profile_banners/1834270423946805248/1744633024/1080x360)
 
+<h1 align="center">Hi there 👋, I'm Mahedi Hasan Rafsun</h1>
+<h3 align="center">A Professional Web Developer | WordPress Customization & Plugin Developer</h3>
 
-### Hi there 👋, I am Mahedi Hasan Rafsun 
-#### A professional Web Developer and programmer, WordPress customization and plugins developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+WebLearner+Pro" />
+</p>
 
-My name is Mahedi Hasan Rafsun, and at just 18 years old, I have already established myself as a professional in the field of web development, programming, SEO, and translation. My passion for technology and an unyielding desire to learn have driven me to achieve expertise in these areas.
+---
 
-I started my journey with web development, mastering HTML, CSS, and JavaScript, which allowed me to build dynamic, responsive, and user-friendly websites. Along the way, I also developed a strong understanding of SEO, enabling me to optimize websites for better search engine rankings and drive organic traffic.
+### About Me
 
-In addition to my technical skills, I have over two years of experience in translation, working with clients to bridge linguistic and cultural gaps. Whether it’s translating technical documents or creative content, I ensure precision and cultural relevance in every project I take on.
+I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and Translator.
 
-I am also the creator of WebLearner Pro, a platform dedicated to teaching programming and web development in an easy and accessible way. Through my website, app, YouTube channel, and Telegram bot, I aim to provide valuable resources and tutorials for learners of all levels.
+- 🔭 Currently working on **Fiverr** & **Upwork**
+- 🌱 Learning **Python** and **Advanced JavaScript**
+- 👨‍💻 Founder of [WebLearner Pro](https://weblearnerprosite.blogspot.com/)
+- 📖 Writing my book: _**"Beginner to Advance Programmer"**_
+- ✍️ Over 2 years of **Translation** experience
+- 🤝 Open to **collaboration** on exciting dev projects!
+- 😄 Pronouns: `Developer`
+- ⚡ Fun fact: I’m a completely self-taught developer!
 
-Currently, I am working on my book, "Beginner to Advance Programmer," which is designed to guide readers through the journey of learning programming from scratch to advanced levels. The book includes step-by-step tutorials, coding examples, practice exercises, and real-world projects to make learning interactive and practical.
+---
 
-I’m always striving to grow and help others do the same. My vision is to create opportunities for people to learn, grow, and succeed in the world of technology.
+### 🚀 Tech Stack
 
-Skills: HTML, CSS, JAVASCRIPT, PYTHON, PHP, AND SQL, MYSQL 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-- 🔭 I’m currently working on Fiverr, Upwork 
-- 🌱 I’m currently learning Python and JavaScript properly  
-- 👯 I’m looking to collaborate on WebLearner Pro  
-- 🤔 I’m looking for help with Learn Git 
-- 😄 Pronouns: Developer 
-- ⚡ Fun fact: I am a self developer  
+---
 
+### 📊 GitHub Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhrtuch240)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mhrWebDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/iammahedihasanalways?igsh=MXE3eXlycTExNDNoOA==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/MHR_tech240?s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://weblearnerprosite.blogspot.com/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhrtuch240&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=mhrtuch240&theme=radical" width="47%"/>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrtuch240&layout=compact&theme=radical" width="47%"/>
+  <img src="https://api.vaunt.dev/v1/github/entities/mhrtuch240/contributions?format=svg&private=true" width="47%">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrtuch240)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrtuch240&show_icons=true&count_private=true)  
+### 🌐 Connect with Me
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mhrtuch240/contributions?format=svg&private=true)  
+<p align="center">
+  <a href="https://github.com/mhrtuch240"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://facebook.com/mhrWebDeveloper"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/iammahedihasanalways"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/MHR_tech240"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://weblearnerprosite.blogspot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mhrtuch240)  
+---
 
+### 🏆 GitHub Badges
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
+  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
+</p>
+
+---
+
+> “Let’s make the web a better place, one line of code at a time!” – **Mahedi Hasan Rafsun**
