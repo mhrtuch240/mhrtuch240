@@ -11,7 +11,7 @@
 
 ### About Me
 
-I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and Translator.
+I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and content creator and live streamer.
 
 - 🔭 Currently working on **Fiverr** & **Upwork**
 - 🌱 Learning **Python** and **Advanced JavaScript**
