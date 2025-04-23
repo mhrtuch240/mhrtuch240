@@ -3,7 +3,6 @@
 
 ### Hi there 👋, I am Mahedi Hasan Rafsun 
 #### A professional Web Developer and programmer, WordPress customization and plugins developer.
-![A professional Web Developer and programmer, WordPress customization and plugins developer.](https://pbs.twimg.com/profile_banners/1834270423946805248/1744633024/1080x360)
 
 My name is Mahedi Hasan Rafsun, and at just 18 years old, I have already established myself as a professional in the field of web development, programming, SEO, and translation. My passion for technology and an unyielding desire to learn have driven me to achieve expertise in these areas.
 
