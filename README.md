@@ -4,14 +4,14 @@
 <h3 align="center">A Professional Web Developer | WordPress Customization & Plugin Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+WebLearner+Pro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+WebLearner+Pro;Founder+of+HexCracker" />
 </p>
 
 ---
 
 ### About Me
 
-I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and content creator and live streamer.
+I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and content creator, cyber security expart and ethical hacker .
 
 - 🔭 Currently working on **Fiverr** & **Upwork**
 - 🌱 Learning **Python** and **Advanced JavaScript**
