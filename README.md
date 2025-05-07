@@ -1,101 +1,78 @@
-<div align="center">
-  <!-- Banner Image with Animation -->
-  <img src="https://x.com/MHR_tech240/status/1914933895122042937?s=19" alt="MHR Banner" style="width: 100%; border: 3px solid #ff69b4; border-radius: 10px; box-shadow: 0 0 10px #fff, 0 0 20px #ff69b4;">
+Header](https://pbs.twimg.com/profile_banners/1834270423946805248/1744633024/1080x360)
 
-  <!-- Name with Stylish Font -->
-  <h1 style="font-family: 'Segoe UI', sans-serif; color: #fff; text-shadow: 0 0 10px #ff69b4;">
-    Mahedi Hasan Rafsun
-  </h1>
+<h1 align="center">Hi there 👋, I'm Mahedi Hasan Rafsun</h1>
+<h3 align="center">A Professional Web Developer | WordPress Customization & Plugin Developer</h3>
 
-  <!-- Typing Animation Effect -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Web+Developer;Ethical+Hacker;Cybersecurity+Expert;SEO+Marketer;Content+Creation+Expert" alt="Typing SVG">
-  </p>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=HTML;CSS;JavaScript;Python;PHP;Git" alt="Typing SVG">
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+WebLearner+Pro" />
+</p>
 
-## 👨‍💻 About Me
+---
 
-I'm a 17-year-old tech enthusiast passionate about Web Development and Cybersecurity. As the founder of WebLearner Pro & Hex Cracker, I combine my expertise in programming with ethical hacking to create secure and efficient web solutions. My diverse skill set spans across web development, cybersecurity, and digital marketing.
+### About Me
 
-## 🚀 Skills
+I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and content creator and live streamer.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Cybersecurity-blue?style=for-the-badge&logo=shield&logoColor=white"/>
-        <br>Advanced Security Testing & Protection
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Web_Development-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
-        <br>Full-Stack Development
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-SEO_&_Content-purple?style=for-the-badge&logo=wordpress&logoColor=white"/>
-        <br>Digital Marketing Expert
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Ethical_Hacking-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-        <br>Penetration Testing
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Programming-green?style=for-the-badge&logo=code&logoColor=white"/>
-        <br>Multiple Languages
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Git_&_GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-        <br>Version Control Expert
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔭 Currently working on **Fiverr** & **Upwork**
+- 🌱 Learning **Python** and **Advanced JavaScript**
+- 👨‍💻 Founder of [WebLearner Pro](https://weblearnerprosite.blogspot.com/)
+- 📖 Writing my book: _**"Beginner to Advance Programmer"**_
+- ✍️ Over 2 years of **Translation** experience
+- 🤝 Open to **collaboration** on exciting dev projects!
+- 😄 Pronouns: `Developer`
+- ⚡ Fun fact: I’m a completely self-taught developer!
 
-## 💻 Technical Expertise
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
+---
 
-## 📫 Contact Information
-<div align="center">
-  <a href="mailto:developer.mahedihasanrafsun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-developer.mahedihasanrafsun%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Phone-%2B8801306654467-blue?style=for-the-badge&logo=phone&logoColor=white"/>
-</div>
+### 🚀 Tech Stack
 
-## 🌐 Social Media
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mhrtuch240"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-<br>
+---
 
-<div align="center">
-  <i style="color: #ff69b4; text-shadow: 0 0 5px #fff;">
-    "I am working more deeply on web development and cybersecurity, further developing my skills and learning."
-  </i>
-</div>
+### 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhrtuch240&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhrtuch240&theme=radical" alt="GitHub Streak">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhrtuch240&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=mhrtuch240&theme=radical" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrtuch240&layout=compact&theme=radical" width="47%"/>
+  <img src="https://api.vaunt.dev/v1/github/entities/mhrtuch240/contributions?format=svg&private=true" width="47%">
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/mhrtuch240"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://facebook.com/mhrWebDeveloper"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/iammahedihasanalways"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/MHR_tech240"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://weblearnerprosite.blogspot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+### 🏆 GitHub Badges
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
+  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
+</p>
+
+---
+
+> “Let’s make the web a better place, one line of code at a time!” – **Mahedi Hasan Rafsun**
+
