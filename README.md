@@ -13,7 +13,8 @@
 
 I’m **Mahedi Hasan Rafsun**,
 
-Web Developer | Programmer | SEO Specialist | Prompt Engineer
+Web Developer | Programmer | SEO Specialist | Prompt Engineer.
+
 Email: developer.mahedihasanrafsun@gmail.com
 Phone: +8801306654467
 
