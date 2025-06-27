@@ -4,20 +4,37 @@
 <h3 align="center">A Professional Web Developer | WordPress Customization & Plugin Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+WebLearner+Pro;Founder+of+HexCracker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer;WordPress+Plugin+Developer;Freelancer+%7C+SEO+Expert;Founder+of+LWMHR+-+Learn+With+Mahedi+Hasan+Rafsun" />
 </p>
 
 ---
 
 ### About Me
 
-I’m **Mahedi Hasan Rafsun**, an 18-year-old professional Web Developer, Programmer, SEO Expert, and content creator, cyber security expart and ethical hacker .
+I’m **Mahedi Hasan Rafsun**,
 
-- 🔭 Currently working on **Fiverr** & **Upwork**
+Web Developer | Programmer | SEO Specialist | Prompt Engineer
+Email: developer.mahedihasanrafsun@gmail.com
+Phone: +8801306654467
+
+At the age of 18, I have established myself as a dedicated and skilled professional in the fields of web development, programming, SEO, and prompt engineering. My deep passion for technology, combined with a commitment to continuous learning, has enabled me to develop strong expertise across these domains.
+
+I began my professional journey with front-end web development, mastering HTML, CSS, and JavaScript. With these technologies, I build dynamic, responsive, and user-friendly websites that meet modern standards of design and performance. As I progressed, I developed solid proficiency in Search Engine Optimization (SEO), helping websites rank higher and attract meaningful organic traffic.
+
+Alongside development and SEO, I have developed advanced skills in prompt engineering. I specialize in crafting precise and high-performing prompts for AI tools such as ChatGPT and Midjourney, enabling users to generate accurate responses, creative content, and effective automation. I am highly comfortable working with AI, which allows me to build fully functional and visually appealing websites in a short time with efficiency and precision.
+
+I am also the founder of WebLearner Pro, an educational platform focused on simplifying programming and web development for learners of all levels. Through my website, mobile app, YouTube channel, and Telegram bot, I offer step-by-step tutorials, coding resources, and practical project guidance.
+
+Currently, I am authoring a book titled "Beginner to Advance Programmer," aimed at guiding readers from foundational concepts to advanced programming through structured lessons, code examples, exercises, and real-world projects.
+
+My mission is to empower others through knowledge, inspire self-learning, and contribute to building a future driven by technology and innovation.
+.
+
+- 🔭 Currently working on **Fiverr**,**Linkdin**, **Facebook** & **YouTube**
 - 🌱 Learning **Python** and **Advanced JavaScript**
 - 👨‍💻 Founder of [LWMHR - Learn With Mahedi Hasan Rafsun](https://www.facebook.com/profile.php?id=61577117180189)
 - 📖 Writing my book: _**"Beginner to Advance Programmer"**_
-- ✍️ Over 2 years of **Translation** experience
+- ✍️ Over 2 years of **Seo Optimaizetion and Content Writing** experience
 - 🤝 Open to **collaboration** on exciting dev projects!
 - 😄 Pronouns: `Developer`
 - ⚡ Fun fact: I’m a completely self-taught developer!
