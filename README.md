@@ -4,7 +4,7 @@
 <h3 align="center">A Professional Web Developer | WordPress Customization & Plugin Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=535&lines=Web+Developer;Programmer;Prompt+Engineer;Freelancer+%7C+SEO+Expert;founder+of+LWMHR+-+Learn+With+Mahedi+Hasan+Rafsun" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=735&lines=Web+Developer;Programmer;Prompt+Engineer;Freelancer+%7C+SEO+Expert;founder+of+LWMHR+-+Learn+With+Mahedi+Hasan+Rafsun" />
 </p>
 
 ---
