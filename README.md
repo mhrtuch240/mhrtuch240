@@ -15,7 +15,8 @@ I’m **Mahedi Hasan Rafsun**,
 
 Web Developer | Programmer | SEO Specialist | Prompt Engineer.
 
-Email: developer.mahedihasanrafsun@gmail.com
+Email: developer.mahedihasanrafsun@gmail.com.
+
 Phone: +8801306654467
 
 At the age of 18, I have established myself as a dedicated and skilled professional in the fields of web development, programming, SEO, and prompt engineering. My deep passion for technology, combined with a commitment to continuous learning, has enabled me to develop strong expertise across these domains.
